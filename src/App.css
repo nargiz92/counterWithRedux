@@ -1,0 +1,94 @@
+.App{
+    background-color: #c0004b;
+    display: flex;
+    justify-content:space-around;
+
+}
+.set{
+    border: 3px solid darkslategray;
+    width: 650px;
+    height: 600px;
+    border-radius: 30px;
+    box-shadow: 4px 4px #6f8585;
+    margin: 10px;
+
+}
+
+.screenInput {
+    margin: 25px;
+    border: 3px solid darkslategray;
+    width: 600px;
+    height: 300px;
+  border-radius: 30px;
+    box-shadow: 4px 4px #6f8585;
+
+}
+.setButton{
+    border: 3px solid darkslategray;
+    width: 550px;
+    height: 200px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    box-shadow: 4px 4px #6f8585;
+
+    margin-left: 45px;
+}
+.counter{
+    border: 3px solid darkslategray;
+    width: 650px;
+    height: 600px;
+    border-radius: 30px;
+    box-shadow: 4px 4px #6f8585;
+margin: 10px;
+
+}
+.screenOfCounter{
+    border: 3px solid darkslategray;
+    width: 600px;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 4px 4px #6f8585;
+    margin: 25px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.regularClass{
+    padding-left: 40px;
+    color: burlywood;
+}
+
+.red {
+    color: red;
+    padding-left: 40px;
+}
+.buttonPlaces{
+    border: 3px solid darkslategray;
+    width: 550px;
+    height: 200px;
+    border-radius: 30px;
+    margin-left: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 4px 4px #6f8585;
+}
+
+
+.input {
+    border-radius: 8px;
+    height: 50px;
+    width: 550px;
+    border: 1px solid burlywood;
+    background-color: antiquewhite;
+    margin-left: 20px;
+
+}
+
+.errorClass {
+    border: 1px solid red;
+    background: red;
+}
